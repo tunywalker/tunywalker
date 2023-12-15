@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuna GÜL</h1>
 
 
-- 🔭 I’m currently working on [ShipSeller](https://github.com/tunywalker/ShipSeller)
+- 🔭 I’m currently working on [ShipSeller](https://github.com/tunywalker/CarBooking-Project)
 
 <p align="left">
 </p>
